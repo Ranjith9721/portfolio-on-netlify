@@ -1,0 +1,45 @@
+.white-text{
+    color: white;
+}
+
+.row .col.s4 {
+    width: 33.33333%;
+    margin-left: 0;
+}
+.row .col {
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0 0.75rem;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.text-center {
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 180px;
+}
+.center{
+    text-align: center;
+}
+.fontstyle{
+    font-family:Copperplate, Papyrus, fantasy;
+    font-weight:5100;
+}
+
+.teal {
+    background-color: #009688 !important;
+}
+.lightgreen{
+    background-color:rgb(178, 247, 195) ;
+}

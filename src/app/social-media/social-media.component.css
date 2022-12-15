@@ -1,0 +1,27 @@
+.icon{
+    
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 20px;
+    color: aliceblue;
+    
+   
+}
+.linkedIn:hover{
+    height: 50px;
+    width: 50px;
+  
+}
+
+.insta:hover{
+    height: 50px;
+    width: 50px;
+  
+  
+}
+.gitHub:hover{
+    height: 50px;
+    width: 50px;
+  
+}

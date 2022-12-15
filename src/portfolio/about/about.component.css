@@ -1,0 +1,25 @@
+.teal {
+    background-color: #009688 !important;
+}
+
+
+.white-text {
+    color: #FFFFFF !important;
+}
+
+.container {
+    width: 95%;
+}
+
+.flow-text {
+    line-height: 2.152rem;
+}
+
+.card-text{
+    font-size: x-large;
+}
+
+img{
+    height:fit-content;
+    width:fit-content;
+}
